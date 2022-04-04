@@ -1,5 +1,5 @@
 {
-    "name": "hex/example",
+    "name": "popovbm/hexlet-php",
     "description": "example package",
     "authors": [
         {
@@ -7,6 +7,5 @@
             "email": "popovbm@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
