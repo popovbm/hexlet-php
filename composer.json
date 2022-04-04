@@ -1,0 +1,12 @@
+{
+    "name": "hex/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Ivan Popov",
+            "email": "popovbm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
